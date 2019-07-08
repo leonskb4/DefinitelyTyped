@@ -4,7 +4,7 @@
 // Definitions: https://github.com/borisyankov/DefinitelyTyped
 
 declare var Lobibox: LobiboxModule.LobiboxStatic;
-declare module "Lobibox" {
+declare module "lobibox" {
     export = Lobibox;
 }
 declare module LobiboxModule {

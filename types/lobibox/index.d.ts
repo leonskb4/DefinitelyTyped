@@ -5,7 +5,7 @@
 // TypeScript Version: 2.3
 
 declare var Lobibox: LobiboxModule.LobiboxStatic;
-declare module "Lobibox" {
+declare module "lobibox" {
     export = Lobibox;
 }
 declare namespace LobiboxModule {
